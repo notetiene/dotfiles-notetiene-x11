@@ -7,3 +7,6 @@
 # Set compose key to caps
 setxkbmap -config compose:caps
 
+# Set keyrate:
+# Delay of 180ms to repeat key each 100ms
+xset r rate 180 100
